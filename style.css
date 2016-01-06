@@ -1,0 +1,19 @@
+h1 {
+  font-family: fantasy;
+  color:#9ACD32;
+  text-align: center;
+}
+p {
+  font-family: fantasy;
+}
+li {
+  font-family: fantasy;
+  font-weight: bold;
+}
+img {
+  height: 500px;
+  width: 800px;
+}
+a{
+  font-weight: bold;
+}
